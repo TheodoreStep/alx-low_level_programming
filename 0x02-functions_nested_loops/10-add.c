@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * Add - add two numbers
+ * add - add two numbers
  * @i: parameter 1
  * @j: parameter 2
  * Return: sum
